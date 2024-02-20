@@ -3,8 +3,6 @@
 Here is the preview video of the website below:
 
 
-https://github.com/dipayansarkar47/insta-reels-downloader/assets/77672753/157967d6-d558-4a04-b9ed-2bfd14df54d3
-
 
 ## How to install and use this project on your machine?
 
