@@ -67,7 +67,7 @@ function App() {
         <button className="button" onClick={getApidata}>Download Video</button>
         {isLoading && <div className='text-black bg-transparent mt-5'>Loading...</div>}
         {videoData && !error && <div className='flex flex-row justify-between border-2 border-indigo-800 items-center w-10/12 p-5 m-5'>
-          <img src={Thumbnail} alt="" srcset="" className='h-20 w-20' />
+          <img src={Thumbnail} alt="" srcset="" className='h-80 w-60' />
           <h3 className='text-black'>{videoQuality}</h3>
           <a href={videoDownloadURL} target='_blank' rel='noreferrer' className='bg-blue-800 text-white p-2 rounded'> Download </a>
         </div>}
