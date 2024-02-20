@@ -1,9 +1,5 @@
 # Instagram Reels Downloader
 
-Here is the preview video of the website below:
-
-
-
 ## How to install and use this project on your machine?
 
 Download this project as Zip and the extract and then run these commands:
